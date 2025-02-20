@@ -1,2 +1,2 @@
-# jewellery-website
+# My-jewellery-mark
 website
